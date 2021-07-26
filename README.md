@@ -50,4 +50,4 @@ The magnitude of the noise can be decreased and and increased by changing the ma
 
 ### Task6
 
-Finally with the data , deep neural network odel was trained and deplyed in producting using Data Engineering and Data warehousing concepts.
+Finally with the data , deep neural network model was trained and deployed in production using Data Engineering and Data warehousing concepts.
