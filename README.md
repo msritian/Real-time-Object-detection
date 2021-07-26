@@ -48,3 +48,6 @@ INSERTING WHITE NOISE TO THE FRAMES
 With the help of python code white noise was added to the number plate images by adjusting the magnitude of noise as 0.05 and change was observed. 
 The magnitude of the noise can be decreased and and increased by changing the magnitude of noise.
 
+###Task6
+
+Finally with the data , deep neural network odel was trained and deplyed in producting using Data Engineering and Data warehousing concepts.
